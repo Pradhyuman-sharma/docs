@@ -19,5 +19,4 @@ Keploy exposes GraphQL API for the frontend based on [gqlgen](https://github.com
 ```shell
 go generate ./...
 ```
-
-Note:- While generating pull requests make sure to follow Conventional Commits for best practices . For more look into https://github.com/commitizen/cz-cli
+Note:- While generating pull requests make sure to follow Conventional Commits for best practices . For more look into https://github.com/commitizen/cz-cli 
