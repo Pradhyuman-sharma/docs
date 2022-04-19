@@ -54,3 +54,5 @@ mongorestore  dump/
 ```
 
 You should now be able to see test data on the UI.
+
+Note:- While generating pull requests make sure to follow Conventional Commits for best practices . For more look into https://github.com/commitizen/cz-cli
